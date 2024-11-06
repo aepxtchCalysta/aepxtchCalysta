@@ -1,4 +1,4 @@
-# `Hi 👋 I'm Calysta, welcome to my world OwO`
+# `Hi 👋 I'm Calysta, welcome to my world OwO`</span>
 
                              ⠀  ⠀   ⠀⠀⠀⠀⢀⣰⣀
                                   ⢀⣀⠀⠀⠀⢀⣄⠘⠀
@@ -18,7 +18,7 @@
 
 -----
 # 💫 About Me:
-🖥️ a freshman at the University of Information Technology<br>❤️‍🔥 hobby: singing 🎙️ food-lover 🌭 hanging out with friends 🫂<br>🌱 learning AI<br>˚∧＿∧  　+        —̳͟͞͞💗<br>(  •‿• )つ  —̳͟͞͞ 💗         —̳͟͞͞💗 +<br>(つ　 <                —̳͟͞͞💗<br>｜　 _つ      +  —̳͟͞͞💗         —̳͟͞͞💗 ˚<br>`し´
+🖥️ a freshman at the University of Information Technology<br>❤️‍🔥 hobby: singing 🎙️ food-lover 🌭 hanging out with friends 🫂<br>🌱 learning AI<br>˚∧＿∧  　+        —̳͟͞͞🩵<br>(  •‿• )つ  —̳͟͞͞ 🩵         —̳͟͞͞🩵 +<br>(つ　 <                —̳͟͞͞🩵<br>｜　 _つ      +  —̳͟͞͞🩵          —̳͟͞͞🩵 ˚<br>`し´
            
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aepxtchCal)
@@ -29,7 +29,7 @@
 ## ✍️ My Favorite Quote:
 *<h2 align="center"> "Run to the rescue with love <br>
  And Peace will follow" <br>*
- ❤️
+˚˚♡♡♡˚˚</h2>
  
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aepxtchCalysta&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
