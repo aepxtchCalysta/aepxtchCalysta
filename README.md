@@ -1,4 +1,4 @@
-# `Hi 👋 I'm Calysta, welcome to my world OwO
+# `Hi 👋 I'm Calysta, welcome to my world OwO`
 
                              ⠀  ⠀   ⠀⠀⠀⠀⢀⣰⣀
                                   ⢀⣀⠀⠀⠀⢀⣄⠘⠀
